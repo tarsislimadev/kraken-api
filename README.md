@@ -13,7 +13,7 @@ To get data from Kraken's REST API
 ### .env file
 
 ```
-
+DATABASE=./data
 ```
 
 ## how to use
