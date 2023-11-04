@@ -1,4 +1,4 @@
-# [Kraken's REST API for our Spot exchange](https://docs.kraken.com/rest/)
+# [Kraken's REST API](https://docs.kraken.com/rest/)
 
 To get data from Kraken's REST API
 
