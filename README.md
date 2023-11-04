@@ -18,6 +18,13 @@ DATABASE=./data
 
 ## how to use
 
+### Get Asset Info
+
+```
+bash ./src/public/Assets.sh
+```
+
+
 ## license
 
 [MIT](./LICENSE)
